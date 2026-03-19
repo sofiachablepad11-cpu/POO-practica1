@@ -9,7 +9,7 @@ public class BIENVENIDASYSTEM {
 		String respuesta = sc.next();
 		System.out.println("Hola " +respuesta+" Bienvenido (a) a la programación");
 		sc.close();
-//
+//segun cambio 
 	}
 
 }
